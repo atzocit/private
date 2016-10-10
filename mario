@@ -1,0 +1,7 @@
+nptr server user $pw
+selang 
+Su user un
+$ Nptr ami_scc user $pw
+sg ami_* | grep GROUP
+
+
